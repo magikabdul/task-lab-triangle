@@ -10,6 +10,6 @@ class TriangleTest {
     void shouldReturnTriangleArea() {
         var triangle = new Triangle(5, 6);
 
-        assertEquals(15, triangle.getArea());
+        assertEquals(16, triangle.getArea());
     }
 }
